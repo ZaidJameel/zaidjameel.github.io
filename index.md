@@ -1,39 +1,25 @@
-## Welcome to GitHub Pages
+# SUMMARY
+Innovative Android Developer with 3+ years of experience designing, developing, testing,
+and maintaining Android applications in the sports entertainment industry. 
+Built core features for app with 50K+ downloads.
 
+# EDUCATION
+GREEN VALLEY STATE                                        Aug '10 - May '14
+Bachelor of Science in Computer Science
 
-You can use the [editor on GitHub](https://github.com/Zaidghb/zaid.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zaidghb/zaid.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-                                                      Thankyou
+# EXPERIENCE
+River Tech, Android Developer                             Jan '17 - Current
+     :Conceptualize, develop, and test native Android applications, including UI,
+      core functionality, and third-party SDKS
+     :Deployed beta version of fantasy sports gaming app, which helped to identify bugs,
+      user experience issues, and functionality problems
+     :Created successful proof of concept (POC) for NHL statistics Android app that is currently in production
+# CRANE & JENKINS, Android Developer                      Current - Current
+     :Designed and developed core features for a real-time sports score Android application using Java 
+      (currently available in the Google Play store)
+     :Built Android apps with back-end API integration to improve the customer experience and cut down on development time
+     :Integrated Facebook login feature for fantasy football score tracking app, which increased app usage by ~20%
+# SKILLS
+   Java, C++, Python, Xamarin, Android SDK, XML, SQL
+   Mobile app monetization
+   Agile methodology
