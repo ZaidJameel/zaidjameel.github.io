@@ -1,25 +1,20 @@
 # SUMMARY
-Innovative Android Developer with 3+ years of experience designing, developing, testing,
-and maintaining Android applications in the sports entertainment industry. 
-Built core features for app with 50K+ downloads.
+Innovative Web Developer with fresher level of experience designing, developing, testing,
+and maintaining web applications in the sports entertainment industry. 
 
 # EDUCATION
-GREEN VALLEY STATE                                        Aug '10 - May '14
-Bachelor of Science in Computer Science
+Jamia Millia Islamia                               Nov '16 - Mar '20
+Diploma in Computer Engineering
 
 # EXPERIENCE
-River Tech, Android Developer                             Jan '17 - Current
-     :Conceptualize, develop, and test native Android applications, including UI,
-      core functionality, and third-party SDKS
-     :Deployed beta version of fantasy sports gaming app, which helped to identify bugs,
-      user experience issues, and functionality problems
-     :Created successful proof of concept (POC) for NHL statistics Android app that is currently in production
-# CRANE & JENKINS, Android Developer                      Current - Current
-     :Designed and developed core features for a real-time sports score Android application using Java 
-      (currently available in the Google Play store)
-     :Built Android apps with back-end API integration to improve the customer experience and cut down on development time
+IET, Web Developer                                 Sep '18 - Current
+     :Conceptualize, develop, and test native Web applications, including UI,
+      core functionality, and third-party WebApps
+     
+# Codesprint,PHP Developer                         Current - Current
+     :Designed and developed core features for a real-time sports score web application using php 
+     :Built Web apps with back-end API integration to improve the customer experience and cut down on development time
      :Integrated Facebook login feature for fantasy football score tracking app, which increased app usage by ~20%
 # SKILLS
-   Java, C++, Python, Xamarin, Android SDK, XML, SQL
-   Mobile app monetization
-   Agile methodology
+   HTML, CSS, Bootstrap, Materialize CSS, 
+   PHP, SQL, Github, Sublime Merge
