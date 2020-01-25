@@ -4,12 +4,14 @@ and maintaining web applications in the sports entertainment industry.
 
 # EDUCATION
 Jamia Millia Islamia                               Nov '16 - Mar '20
+
 Diploma in Computer Engineering
 
 # EXPERIENCE
 IET, Web Developer                                 Sep '18 - Current
-     :Conceptualize, develop, and test native Web applications, including UI,
-      core functionality, and third-party WebApps
+     
+   :Conceptualize, develop, and test native Web applications, including UI,
+    core functionality, and third-party WebApps
      
 # Codesprint,PHP Developer                         Current - Current
      :Designed and developed core features for a real-time sports score web application using php 
